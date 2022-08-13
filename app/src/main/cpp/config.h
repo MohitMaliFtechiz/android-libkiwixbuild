@@ -1,0 +1,22 @@
+
+#define VERSION "8.0.0"
+
+#define DIRENT_CACHE_SIZE 512
+
+#define DIRENT_LOOKUP_CACHE_SIZE 1024
+
+#define CLUSTER_CACHE_SIZE 16
+
+#define LZMA_MEMORY_SIZE 128
+
+#define ENABLE_XAPIAN
+
+#define ENABLE_USE_MMAP
+
+#undef ENABLE_USE_BUFFER_HEADER
+
+#define MMAP_SUPPORT_64 0
+
+#define ENV64BIT 0
+
+#define ENV32BIT 1

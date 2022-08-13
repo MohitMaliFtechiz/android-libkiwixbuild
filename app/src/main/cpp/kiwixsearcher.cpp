@@ -19,6 +19,8 @@
  */
 
 
+#include "org_kiwix_kiwixlib_JNIKiwixSearcher.h"
+#include "org_kiwix_kiwixlib_JNIKiwixSearcher_Result.h"
 
 #include "reader.h"
 #include "searcher.h"

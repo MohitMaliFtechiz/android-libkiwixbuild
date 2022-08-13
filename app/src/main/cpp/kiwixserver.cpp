@@ -20,7 +20,9 @@
 
 
 #include <jni.h>
-#include "tools/base64.h"
+#include "org_kiwix_kiwixlib_JNIKiwixServer.h"
+
+#include "base64.h"
 #include "server.h"
 #include "utils.h"
 

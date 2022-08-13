@@ -19,6 +19,8 @@
 
 
 #include <jni.h>
+#include "org_kiwix_kiwixlib_Book.h"
+
 #include "utils.h"
 #include "book.h"
 

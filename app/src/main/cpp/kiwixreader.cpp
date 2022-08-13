@@ -21,7 +21,9 @@
 
 #include <jni.h>
 #include <exception>
-#include "tools/base64.h"
+#include "org_kiwix_kiwixlib_JNIKiwixReader.h"
+
+#include "base64.h"
 #include "reader.h"
 #include "utils.h"
 
